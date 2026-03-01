@@ -39,8 +39,8 @@ export default function Header() {
         <h1 className="ml-4 text-xl font-semibold">
           <Link to="/">
             <img
-              src="/tanstack-word-logo-white.svg"
-              alt="TanStack Logo"
+              src="https://cdn-icons-png.flaticon.com/128/9293/9293737.png"
+              alt="LENDR"
               className="h-10"
             />
           </Link>
